@@ -1,0 +1,9 @@
+# 环境变量文件
+.env
+
+# 数据库文件
+tradingagents.db
+*.db
+
+# Docker 相关
+docker-compose.override.yml
